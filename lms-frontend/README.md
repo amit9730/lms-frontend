@@ -20,3 +20,7 @@ npm i
 4. run the server
 ---
 npm run dev
+
+### setup instruction
+
+[Tail wind official instruction doc]
